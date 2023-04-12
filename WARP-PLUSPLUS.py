@@ -9,7 +9,7 @@ import sys
 os.system("title WARP-PLUS-CLOUDFLARE By ALIILAPRO")
 os.system('cls' if os.name == 'nt' else 'clear')
 print('============================================================\n'
-'                 by damar coder anjay slebew     \n'
+'                 by damar coder x k9FoXxX anjay slebew     \n'
 '============================================================\n')
 print ("[+] ABOUT SCRIPT:")
 print ("[-] With this script, you can getting unlimited GB on Warp+.")
